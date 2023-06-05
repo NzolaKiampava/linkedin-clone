@@ -1,4 +1,4 @@
-NetFlix Clone with Reactjs + Redux + Firebase
+Linkedin Clone with Reactjs + Redux + Firebase
 
 Click in the link to see the project https://linkedin-clone-fb083.web.app/
 
